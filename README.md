@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cvamsikrishna11/cvamsikrishna11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Welcome to my GitHub profile! I'm Vamsi Krishna Chunduru, an AWS Solution Architect passionate about cloud technologies, DevOps, Python, and Terraform. My journey in the tech world revolves around simplifying complex concepts for newcomers and sharing knowledge that bridges gaps.
 
 - 🔭 I’m currently working on ... Enhancing cloud architectures using AWS and exploring the latest in serverless and container technologies.
@@ -15,9 +10,8 @@ Welcome to my GitHub profile! I'm Vamsi Krishna Chunduru, an AWS Solution Archit
 - 📫 How to reach me: ... https://www.linkedin.com/in/vamsi-krishna-chunduru/ or on vamsichunduruworkmail@gmail.com
 - 😄 Pronouns: ...  He/Him/His
 - ⚡ Fun fact: ... I like to teach topics with real-life examples that students see in their everyday life and movies like Marvel Cinematic Universe (Avengers, Ironman, Spiderman) 
--->
 
-💯 My Mission:
-I'm dedicated to developing and sharing educational content that resonates with students stepping into the software industry. Through real-life examples and straightforward explanations, my goal is to make learning about AWS, DevOps, Python, and Terraform as accessible and relatable as possible.
+
+💯 My Mission: I'm dedicated to developing and sharing educational content that resonates with students stepping into the software industry. Through real-life examples and straightforward explanations, my goal is to make learning about AWS, DevOps, Python, and Terraform as accessible and relatable as possible.
 
 Happy learning everyone 🤗
